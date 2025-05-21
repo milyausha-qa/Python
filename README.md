@@ -23,7 +23,7 @@
 
 1. Автотесты написаны с применением PyTest
 2. Используется библиотека Requests
-3. Параметризированные тесты с использованием декоратора
+
 
 ![image](https://github.com/milyausha-qa/Python/blob/main/pytest-api.png)
 
